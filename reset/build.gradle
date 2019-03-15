@@ -1,6 +1,9 @@
 apply plugin: 'com.android.library'
 apply plugin: 'maven'
 
+group = 'endoke1'
+version = '1.0'
+
 android {
     compileSdkVersion 28
 

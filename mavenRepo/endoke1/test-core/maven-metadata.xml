@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>testApp2</groupId>
+  <groupId>endoke1</groupId>
   <artifactId>test-core</artifactId>
   <versioning>
-    <release>unspecified</release>
+    <release>1.0</release>
     <versions>
-      <version>unspecified</version>
+      <version>1.0</version>
     </versions>
-    <lastUpdated>20190315023610</lastUpdated>
+    <lastUpdated>20190315024655</lastUpdated>
   </versioning>
 </metadata>
