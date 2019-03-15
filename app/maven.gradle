@@ -1,0 +1,18 @@
+apply plugin: 'maven'
+
+uploadArchives {
+    repositories {
+        mavenDeployer {
+            repository(url: "file:${projectDir}/mavenRepo")
+            pom.project {
+                licenses {
+                    license {
+                        name "Copyright © endoke1 test, inc. All Rights Reserved."
+                    }
+                }
+            }
+            pom.artifactId = "test-core"
+        }
+    }
+}
+
