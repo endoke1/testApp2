@@ -25,7 +25,7 @@ android {
 }
 
 repositories {
-    maven { url 'https://github.com/forceoperationx/testApp2/raw/master/mavenRepo/testApp2' }
+    maven { url 'https://github.com/forceoperationx/testApp2/raw/master/mavenRepo/' }
 }
 
 dependencies {
